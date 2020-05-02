@@ -1,0 +1,1 @@
+https://api.telegram.org/bot1090506253:AAEAvpVx2l8_pqTjiR7-CLn_QQdbvu7G9cg/setWebhook?url=https://alexkraken.pythonanywhere.com/
